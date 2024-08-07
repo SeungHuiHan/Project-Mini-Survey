@@ -19,10 +19,12 @@
 - [추가해야 할 것](#추가해야-할-것)
 - [프로젝트를 하며 느낀점](#프로젝트를-하며-느낀점)
 
-- 
+
 ### 프로젝트 소개
 - Member Only System의 회원이 로그인하고 설문조사하는 프로그램입니다.
 - 관리자는 설문조사를 등록할 수 있습니다.
+
+ ---
  
 ### 요구사항 정의
 
@@ -34,6 +36,9 @@
 7. 로그인을 한 회원만이 설문에 참여할 수 있다.
 7. 회원은 자신이 참여한 설문을 볼 수 있고 , 재투표는 불가능하다.
 8. 설문참여는 설문번호, 참여한 아이디, 선택항목, 설문참여일로 구성된다.
+
+ ---
+
 
 ### 기능 목록
 
@@ -56,6 +61,8 @@
    - 주문 취소
    - 주문 조회
 
+ ---
+ 
 ### 기능 차트
 ![image3](https://github.com/user-attachments/assets/bc5d90a8-c215-4628-b2d3-35a2c8f1d0c4)
 
@@ -65,7 +72,8 @@
 ### 클래스 다이어그램
 ![image4](https://github.com/user-attachments/assets/a0defc9f-284b-4d9d-9cd6-3a2d3c4aba03)
 
-
+ ---
+ 
 ### 테이블 목록
 
 1. t_member (회원정보 테이블)
@@ -95,7 +103,9 @@
    - id / 참여한 아이디
    - one_two / 선택항목
    - vote_date / 설문참여일
-  
+
+   ---
+   
 ### 테이블 정의서
 
 회원정보 테이블
@@ -146,13 +156,24 @@ CREATE TABLE `t_vote` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3
 ```
 
+ ---
+ 
+
 ### ERD 다이어그램
  
   ![surveyERD](https://github.com/user-attachments/assets/e02abbcd-f281-4e4e-a7da-b77a7bf08176)
 
 
+ ---
+ 
   ### 현재 진행 상황
 
+   ---
+   
+
   ### 추가해야 할 것
+
+   ---
+   
 
   ### 프로젝트를 하며 느낀점
