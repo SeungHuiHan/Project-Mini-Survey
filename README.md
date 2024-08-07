@@ -153,8 +153,9 @@ CREATE TABLE `t_vote` (
 ### ERD 다이어그램
  
   ![surveyERD](https://github.com/user-attachments/assets/e02abbcd-f281-4e4e-a7da-b77a7bf08176)
-  
-<img src="https://github.com/user-attachments/assets/e02abbcd-f281-4e4e-a7da-b77a7bf08176.png"  width="200" height="400"/>
+  ![surveyERD](https://github.com/user-attachments/assets/2edbcd5d-d72c-4843-af2b-fc8409b8d318)
+
+<img src="https://github.com/user-attachments/assets/2edbcd5d-d72c-4843-af2b-fc8409b8d318.png"  width="200" height="400"/>
 
   ### 현재 진행 상황
 
