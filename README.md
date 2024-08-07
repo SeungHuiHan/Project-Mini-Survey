@@ -57,8 +57,8 @@
 
 ### 기능 차트
 ![image3](https://github.com/user-attachments/assets/bc5d90a8-c215-4628-b2d3-35a2c8f1d0c4)
-<img src="https://github.com/user-attachments/assets/bc5d90a8-c215-4628-b2d3-35a2c8f1d0c4.png  width="200" height="400"/>
-![image](https://user-images.githubusercontent.com/51365114/119627750-716f3100-be47-11eb-8e83-686b23c2c161.png)
+<img src="https://github.com/user-attachments/assets/bc5d90a8-c215-4628-b2d3-35a2c8f1d0c4 width="200" height="400"/>
+
 ### 화면 흐름도
 ![image1](https://github.com/user-attachments/assets/7c62f4bb-7899-4051-9760-293366fa667c)
 <img src="https://github.com/user-attachments/assets/7c62f4bb-7899-4051-9760-293366fa667c.png  width="200" height="400"/>
