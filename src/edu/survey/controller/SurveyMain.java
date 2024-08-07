@@ -27,7 +27,7 @@ public class SurveyMain {
         //5. 시스템 종료
         while(true){
             System.out.println("----------------------------------------");
-            System.out.println("ㅁ Survey only SYSTEM ㅁㅁㅁㅁㅁ MAIN MENU");
+            System.out.println("ㅁ Memeber only SYSTEM ㅁㅁㅁㅁㅁ MAIN MENU");
             System.out.println("----------------------------------------");
             System.out.println(" 1. 설문조사 등록");
             System.out.println(" 2. 설문조사 수정");
