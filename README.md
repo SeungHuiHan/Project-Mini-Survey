@@ -57,15 +57,15 @@
 
 ### 기능 차트
 ![image3](https://github.com/user-attachments/assets/bc5d90a8-c215-4628-b2d3-35a2c8f1d0c4)
-
-
+<img src="https://github.com/user-attachments/assets/bc5d90a8-c215-4628-b2d3-35a2c8f1d0c4.png  width="200" height="400"/>
+![image](https://user-images.githubusercontent.com/51365114/119627750-716f3100-be47-11eb-8e83-686b23c2c161.png)
 ### 화면 흐름도
 ![image1](https://github.com/user-attachments/assets/7c62f4bb-7899-4051-9760-293366fa667c)
-
+<img src="https://github.com/user-attachments/assets/7c62f4bb-7899-4051-9760-293366fa667c.png  width="200" height="400"/>
 
 ### 클래스 다이어그램
 ![image4](https://github.com/user-attachments/assets/a0defc9f-284b-4d9d-9cd6-3a2d3c4aba03)
-
+<img src="https://github.com/user-attachments/assets/a0defc9f-284b-4d9d-9cd6-3a2d3c4aba03.png  width="200" height="400"/>
 
 ### 테이블 목록
 
@@ -150,7 +150,7 @@ CREATE TABLE `t_vote` (
 ### ERD 다이어그램
  
   ![surveyERD](https://github.com/user-attachments/assets/e02abbcd-f281-4e4e-a7da-b77a7bf08176)
-
+<img src="https://github.com/user-attachments/assets/e02abbcd-f281-4e4e-a7da-b77a7bf08176.png  width="200" height="400"/>
 
   ### 현재 진행 상황
 
