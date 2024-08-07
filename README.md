@@ -14,6 +14,7 @@
 - [클래스 다이어그램](#-클래스-다이어그램)
 - [테이블 목록](#-테이블-목록)
 - [테이블 정의서](#-테이블-정의서)
+- [ERD 다이어그램](#-ERD-다이어그램)
 - [현재 진행 상황](#-현재-진행-상황)
 - [추가해야 할 것](#추가해야-할-것)
 - [프로젝트를 하며 느낀점](#-프로젝트를-하며-느낀점)
@@ -58,17 +59,12 @@
 ### 기능 차트
 ![image3](https://github.com/user-attachments/assets/bc5d90a8-c215-4628-b2d3-35a2c8f1d0c4)
 
-<img src="https://github.com/user-attachments/assets/bc5d90a8-c215-4628-b2d3-35a2c8f1d0c4.png" width="200" height="400"/>
-
 ### 화면 흐름도
 ![image1](https://github.com/user-attachments/assets/7c62f4bb-7899-4051-9760-293366fa667c)
-
-<img src="https://github.com/user-attachments/assets/7c62f4bb-7899-4051-9760-293366fa667c.png"  width="200" height="400"/>
 
 ### 클래스 다이어그램
 ![image4](https://github.com/user-attachments/assets/a0defc9f-284b-4d9d-9cd6-3a2d3c4aba03)
 
-<img src="https://github.com/user-attachments/assets/a0defc9f-284b-4d9d-9cd6-3a2d3c4aba03.png"  width="200" height="400"/>
 
 ### 테이블 목록
 
@@ -153,9 +149,7 @@ CREATE TABLE `t_vote` (
 ### ERD 다이어그램
  
   ![surveyERD](https://github.com/user-attachments/assets/e02abbcd-f281-4e4e-a7da-b77a7bf08176)
-  ![surveyERD](https://github.com/user-attachments/assets/2edbcd5d-d72c-4843-af2b-fc8409b8d318)
 
-<img src="https://github.com/user-attachments/assets/2edbcd5d-d72c-4843-af2b-fc8409b8d318.png"  width="200" height="400"/>
 
   ### 현재 진행 상황
 
